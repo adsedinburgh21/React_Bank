@@ -1,0 +1,56 @@
+body{
+  background: no-repeat center center fixed;
+  background-image: url(http://i.telegraph.co.uk/multimedia/archive/02634/PIGGYBANK_2634560b.jpg);
+  background-size: cover;
+  color: #fff;
+}
+
+#app{
+  margin: 0 auto;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0,0,0.4);
+}
+
+#main{
+  margin: 0 auto;
+  width: 500px;
+}
+
+form{
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 3em;
+}
+
+#total{
+  margin: 0 auto;
+  align-items: center;
+
+}
+
+#interest{
+  margin: 0 auto;
+  align-items: center;
+
+}
+
+h1{
+ color: #FFA500;
+}
+
+h3, h4{
+  color: #ADD8E6;
+}
+
+li{
+  color: #FFC3E1}
+
+#input{
+  width: 35px;
+}
